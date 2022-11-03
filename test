@@ -1,0 +1,3 @@
+export GDL__HTTP_COOKIEFILE=~/.grimp_download_cookiejar.txt
+export GDL__HTTP_COOKIEJAR=~/.grimp_download_cookiejar.txt
+gdalinfo "/vsicurl/?list_dir=no&url=https://n5eil01u.ecs.nsidc.org/DP4/MEASURES/NSIDC-0725.004/2014.12.01/GL_vel_mosaic_Annual_01Dec14_30Nov15_vv_v04.0.tif"
