@@ -9,7 +9,7 @@ dependencies:
   - blosc<=1.21.0
   - dask
   - datashader
-  - curl=7.68
+  - curl=7.83
   - fsspec
   - gdal=3.4.2
   - tiledb=2.7.1
